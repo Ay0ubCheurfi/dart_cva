@@ -1,0 +1,11 @@
+name: dart_cva
+description: Class Variance Authority (CVA) for Dart - A utility for managing component variants through class names
+version: 1.0.0
+repository: https://github.com/Ay0ubCheurfi/dart_cva.git
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
